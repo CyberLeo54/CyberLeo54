@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**CyberLeo54/CyberLeo54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Leo 👋
 
-Here are some ideas to get you started:
+🔐 Cybersecurity enthusiast  
+💻 Developer  
+🐧 Linux enjoyer  
+🎮 Roblox Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+
+### Cybersecurity Life Simulator
+
+A Roblox simulation/RPG where players build their own
+career in the cybersecurity world.
+
+Players can choose different paths such as:
+
+- 🛡️ Blue Team
+- 🔴 Red Team
+- 🤍 White Hat
+- 🖤 Black Hat
+- 💼 Cybersecurity business
+- 💻 Independent researcher
+
+## 🛠️ Technologies
+
+- Python
+- Luau
+- Linux
+- Git
+- GitHub
+- Wireshark
+- Roblox Studio
+
+## 📚 Learning
+
+Currently focusing on:
+
+- Cybersecurity
+- Networking
+- Linux
+- Programming
+- Game Development
+
+## 🎯 Goal
+
+Build real projects, learn by doing and document the journey.
+
+---
+
+> Learn. Build. Break. Understand. Secure.
