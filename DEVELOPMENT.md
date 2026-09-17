@@ -12,4 +12,4 @@
 - Different variants of phishing and how to defend against them
 
 ### 💡 Notes
-- Started documenting my development process
+- Started documenting my development process.
